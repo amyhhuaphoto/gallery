@@ -1,6 +1,30 @@
 {
   "nyc": [
     {
+      "height": 3008,
+      "compressed_path": "./photos/nyc/2017-03-DSC_5647.min.jpg",
+      "width": 4541,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-03-DSC_5647.placeholder.jpg",
+      "path": "./photos/nyc/2017-03-DSC_5647.jpg"
+    },
+    {
+      "height": 3179,
+      "compressed_path": "./photos/nyc/2017-03-DSC_5653.min.jpg",
+      "width": 4798,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-03-DSC_5653.placeholder.jpg",
+      "path": "./photos/nyc/2017-03-DSC_5653.jpg"
+    },
+    {
+      "height": 3063,
+      "compressed_path": "./photos/nyc/2017-04-DSC_5997.min.jpg",
+      "width": 4625,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-04-DSC_5997.placeholder.jpg",
+      "path": "./photos/nyc/2017-04-DSC_5997.jpg"
+    },
+    {
       "height": 4807,
       "compressed_path": "./photos/nyc/2017-09-DSC_8537.min.jpg",
       "width": 3184,
@@ -9,30 +33,22 @@
       "path": "./photos/nyc/2017-09-DSC_8537.jpg"
     }
   ],
-  "travel": [
+  "interiors": [
     {
-      "height": 3100,
-      "compressed_path": "./photos/travel/2019-03-DSC_4311.min.jpg",
-      "width": 4680,
+      "height": 4190,
+      "compressed_path": "./photos/interiors/2020-05-DSC_2381.min.jpg",
+      "width": 2786,
       "compressed": true,
-      "placeholder_path": "./photos/travel/2019-03-DSC_4311.placeholder.jpg",
-      "path": "./photos/travel/2019-03-DSC_4311.jpg"
+      "placeholder_path": "./photos/interiors/2020-05-DSC_2381.placeholder.jpg",
+      "path": "./photos/interiors/2020-05-DSC_2381.jpg"
     },
     {
-      "height": 3034,
-      "compressed_path": "./photos/travel/2017-05-DSC_7163.min.jpg",
-      "width": 4581,
+      "height": 3213,
+      "compressed_path": "./photos/interiors/2017-02-DSC_5505.min.jpg",
+      "width": 4850,
       "compressed": true,
-      "placeholder_path": "./photos/travel/2017-05-DSC_7163.placeholder.jpg",
-      "path": "./photos/travel/2017-05-DSC_7163.jpg"
-    },
-    {
-      "height": 4934,
-      "compressed_path": "./photos/travel/2019-08-DSC_5704.min.jpg",
-      "width": 3195,
-      "compressed": true,
-      "placeholder_path": "./photos/travel/2019-08-DSC_5704.placeholder.jpg",
-      "path": "./photos/travel/2019-08-DSC_5704.jpg"
+      "placeholder_path": "./photos/interiors/2017-02-DSC_5505.placeholder.jpg",
+      "path": "./photos/interiors/2017-02-DSC_5505.jpg"
     }
   ],
   "food + drink": [
@@ -61,6 +77,14 @@
       "path": "./photos/food + drink/2020-04-DSC_2215.jpg"
     },
     {
+      "height": 2600,
+      "compressed_path": "./photos/food + drink/2017-05-DSC_6150.min.jpg",
+      "width": 3924,
+      "compressed": true,
+      "placeholder_path": "./photos/food + drink/2017-05-DSC_6150.placeholder.jpg",
+      "path": "./photos/food + drink/2017-05-DSC_6150.jpg"
+    },
+    {
       "height": 2832,
       "compressed_path": "./photos/food + drink/2020-04-DSC_2274.min.jpg",
       "width": 4256,
@@ -69,12 +93,126 @@
       "path": "./photos/food + drink/2020-04-DSC_2274.jpg"
     },
     {
+      "height": 3264,
+      "compressed_path": "./photos/food + drink/2017-05-DSC_6153.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/food + drink/2017-05-DSC_6153.placeholder.jpg",
+      "path": "./photos/food + drink/2017-05-DSC_6153.jpg"
+    },
+    {
       "height": 3434,
       "compressed_path": "./photos/food + drink/2018-05-DSC_1773.min.jpg",
       "width": 5184,
       "compressed": true,
       "placeholder_path": "./photos/food + drink/2018-05-DSC_1773.placeholder.jpg",
       "path": "./photos/food + drink/2018-05-DSC_1773.jpg"
+    }
+  ],
+  "travel": [
+    {
+      "height": 2821,
+      "compressed_path": "./photos/travel/2017-02-DSC_5447.min.jpg",
+      "width": 4260,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-02-DSC_5447.placeholder.jpg",
+      "path": "./photos/travel/2017-02-DSC_5447.jpg"
+    },
+    {
+      "height": 3264,
+      "compressed_path": "./photos/travel/2017-05-DSC_6832.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-05-DSC_6832.placeholder.jpg",
+      "path": "./photos/travel/2017-05-DSC_6832.jpg"
+    },
+    {
+      "height": 4928,
+      "compressed_path": "./photos/travel/2017-05-DSC_7094.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-05-DSC_7094.placeholder.jpg",
+      "path": "./photos/travel/2017-05-DSC_7094.jpg"
+    },
+    {
+      "height": 3100,
+      "compressed_path": "./photos/travel/2019-03-DSC_4311.min.jpg",
+      "width": 4680,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2019-03-DSC_4311.placeholder.jpg",
+      "path": "./photos/travel/2019-03-DSC_4311.jpg"
+    },
+    {
+      "height": 3264,
+      "compressed_path": "./photos/travel/2017-05-DSC_7109.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-05-DSC_7109.placeholder.jpg",
+      "path": "./photos/travel/2017-05-DSC_7109.jpg"
+    },
+    {
+      "height": 3264,
+      "compressed_path": "./photos/travel/2017-02-DSC_5385.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-02-DSC_5385.placeholder.jpg",
+      "path": "./photos/travel/2017-02-DSC_5385.jpg"
+    },
+    {
+      "height": 4928,
+      "compressed_path": "./photos/travel/2017-05-DSC_6314.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-05-DSC_6314.placeholder.jpg",
+      "path": "./photos/travel/2017-05-DSC_6314.jpg"
+    },
+    {
+      "height": 4928,
+      "compressed_path": "./photos/travel/2017-04-DSC_6097.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-04-DSC_6097.placeholder.jpg",
+      "path": "./photos/travel/2017-04-DSC_6097.jpg"
+    },
+    {
+      "height": 3093,
+      "compressed_path": "./photos/travel/2017-01-DSC_4923.min.jpg",
+      "width": 4670,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-01-DSC_4923.placeholder.jpg",
+      "path": "./photos/travel/2017-01-DSC_4923.jpg"
+    },
+    {
+      "height": 2320,
+      "compressed_path": "./photos/travel/2017-02-DSC_5407.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-02-DSC_5407.placeholder.jpg",
+      "path": "./photos/travel/2017-02-DSC_5407.jpg"
+    },
+    {
+      "height": 3034,
+      "compressed_path": "./photos/travel/2017-05-DSC_7163.min.jpg",
+      "width": 4581,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-05-DSC_7163.placeholder.jpg",
+      "path": "./photos/travel/2017-05-DSC_7163.jpg"
+    },
+    {
+      "height": 3264,
+      "compressed_path": "./photos/travel/2017-05-DSC_6555.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-05-DSC_6555.placeholder.jpg",
+      "path": "./photos/travel/2017-05-DSC_6555.jpg"
+    },
+    {
+      "height": 4934,
+      "compressed_path": "./photos/travel/2019-08-DSC_5704.min.jpg",
+      "width": 3195,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2019-08-DSC_5704.placeholder.jpg",
+      "path": "./photos/travel/2019-08-DSC_5704.jpg"
     }
   ]
 }
