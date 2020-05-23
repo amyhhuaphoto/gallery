@@ -4,9 +4,8 @@ body {
 
 #container {
   margin: 0 auto;
-  max-width: 100%;
-  height: auto;
-  width: auto\9;
+  max-width: 1000px;
+  width: 90%;
 }
 
 .header {
