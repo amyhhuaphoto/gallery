@@ -4,7 +4,7 @@
       "height": 4807,
       "compressed_path": "./photos/nyc/2017-09-DSC_8537.min.jpg",
       "width": 3184,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/nyc/2017-09-DSC_8537.placeholder.jpg",
       "path": "./photos/nyc/2017-09-DSC_8537.jpg"
     }
@@ -14,7 +14,7 @@
       "height": 3100,
       "compressed_path": "./photos/travel/2019-03-DSC_4311.min.jpg",
       "width": 4680,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/travel/2019-03-DSC_4311.placeholder.jpg",
       "path": "./photos/travel/2019-03-DSC_4311.jpg"
     },
@@ -22,7 +22,7 @@
       "height": 3034,
       "compressed_path": "./photos/travel/2017-05-DSC_7163.min.jpg",
       "width": 4581,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/travel/2017-05-DSC_7163.placeholder.jpg",
       "path": "./photos/travel/2017-05-DSC_7163.jpg"
     },
@@ -30,7 +30,7 @@
       "height": 4934,
       "compressed_path": "./photos/travel/2019-08-DSC_5704.min.jpg",
       "width": 3195,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/travel/2019-08-DSC_5704.placeholder.jpg",
       "path": "./photos/travel/2019-08-DSC_5704.jpg"
     }
@@ -40,7 +40,7 @@
       "height": 2856,
       "compressed_path": "./photos/food + drink/2018-05-DSC_1757.min.jpg",
       "width": 4312,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/food + drink/2018-05-DSC_1757.placeholder.jpg",
       "path": "./photos/food + drink/2018-05-DSC_1757.jpg"
     },
@@ -48,7 +48,7 @@
       "height": 2832,
       "compressed_path": "./photos/food + drink/2020-04-DSC_2269.min.jpg",
       "width": 4256,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/food + drink/2020-04-DSC_2269.placeholder.jpg",
       "path": "./photos/food + drink/2020-04-DSC_2269.jpg"
     },
@@ -56,7 +56,7 @@
       "height": 2545,
       "compressed_path": "./photos/food + drink/2020-04-DSC_2215.min.jpg",
       "width": 3825,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/food + drink/2020-04-DSC_2215.placeholder.jpg",
       "path": "./photos/food + drink/2020-04-DSC_2215.jpg"
     },
@@ -64,7 +64,7 @@
       "height": 2832,
       "compressed_path": "./photos/food + drink/2020-04-DSC_2274.min.jpg",
       "width": 4256,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/food + drink/2020-04-DSC_2274.placeholder.jpg",
       "path": "./photos/food + drink/2020-04-DSC_2274.jpg"
     },
@@ -72,7 +72,7 @@
       "height": 3434,
       "compressed_path": "./photos/food + drink/2018-05-DSC_1773.min.jpg",
       "width": 5184,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/food + drink/2018-05-DSC_1773.placeholder.jpg",
       "path": "./photos/food + drink/2018-05-DSC_1773.jpg"
     }
