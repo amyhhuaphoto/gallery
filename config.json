@@ -17,6 +17,14 @@
       "path": "./photos/nyc/2017-03-DSC_5653.jpg"
     },
     {
+      "height": 4928,
+      "compressed_path": "./photos/nyc/2017-07-DSC_8135.min.jpg",
+      "width": 3264,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-07-DSC_8135.placeholder.jpg",
+      "path": "./photos/nyc/2017-07-DSC_8135.jpg"
+    },
+    {
       "height": 3063,
       "compressed_path": "./photos/nyc/2017-04-DSC_5997.min.jpg",
       "width": 4625,
@@ -221,6 +229,22 @@
       "compressed": true,
       "placeholder_path": "./photos/travel/2017-04-DSC_6097.placeholder.jpg",
       "path": "./photos/travel/2017-04-DSC_6097.jpg"
+    },
+    {
+      "height": 2916,
+      "compressed_path": "./photos/travel/2017-06-DSC_7755.min.jpg",
+      "width": 4402,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-06-DSC_7755.placeholder.jpg",
+      "path": "./photos/travel/2017-06-DSC_7755.jpg"
+    },
+    {
+      "height": 4764,
+      "compressed_path": "./photos/travel/2017-06-DSC_7999.min.jpg",
+      "width": 3156,
+      "compressed": true,
+      "placeholder_path": "./photos/travel/2017-06-DSC_7999.placeholder.jpg",
+      "path": "./photos/travel/2017-06-DSC_7999.jpg"
     },
     {
       "height": 3093,
