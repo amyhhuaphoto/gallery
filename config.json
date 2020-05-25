@@ -25,6 +25,14 @@
       "path": "./photos/nyc/2017-07-DSC_8135.jpg"
     },
     {
+      "height": 3265,
+      "compressed_path": "./photos/nyc/2017-08-DSC_8436.min.jpg",
+      "width": 4928,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-08-DSC_8436.placeholder.jpg",
+      "path": "./photos/nyc/2017-08-DSC_8436.jpg"
+    },
+    {
       "height": 3063,
       "compressed_path": "./photos/nyc/2017-04-DSC_5997.min.jpg",
       "width": 4625,
@@ -39,9 +47,41 @@
       "compressed": true,
       "placeholder_path": "./photos/nyc/2017-09-DSC_8537.placeholder.jpg",
       "path": "./photos/nyc/2017-09-DSC_8537.jpg"
+    },
+    {
+      "height": 4778,
+      "compressed_path": "./photos/nyc/2017-10-DSC_8741.min.jpg",
+      "width": 3165,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-10-DSC_8741.placeholder.jpg",
+      "path": "./photos/nyc/2017-10-DSC_8741.jpg"
+    },
+    {
+      "height": 3063,
+      "compressed_path": "./photos/nyc/2017-09-DSC_8708.min.jpg",
+      "width": 4624,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-09-DSC_8708.placeholder.jpg",
+      "path": "./photos/nyc/2017-09-DSC_8708.jpg"
+    },
+    {
+      "height": 4928,
+      "compressed_path": "./photos/nyc/2017-10-DSC_8742.min.jpg",
+      "width": 3225,
+      "compressed": true,
+      "placeholder_path": "./photos/nyc/2017-10-DSC_8742.placeholder.jpg",
+      "path": "./photos/nyc/2017-10-DSC_8742.jpg"
     }
   ],
   "interiors": [
+    {
+      "height": 2826,
+      "compressed_path": "./photos/interiors/2017-09-DSC_8707.min.jpg",
+      "width": 4265,
+      "compressed": true,
+      "placeholder_path": "./photos/interiors/2017-09-DSC_8707.placeholder.jpg",
+      "path": "./photos/interiors/2017-09-DSC_8707.jpg"
+    },
     {
       "height": 4814,
       "compressed_path": "./photos/interiors/2017-05-DSC_7384.min.jpg",
@@ -68,6 +108,14 @@
     }
   ],
   "food + drink": [
+    {
+      "height": 3049,
+      "compressed_path": "./photos/food + drink/2017-10-DSC_8772.min.jpg",
+      "width": 4604,
+      "compressed": true,
+      "placeholder_path": "./photos/food + drink/2017-10-DSC_8772.placeholder.jpg",
+      "path": "./photos/food + drink/2017-10-DSC_8772.jpg"
+    },
     {
       "height": 2856,
       "compressed_path": "./photos/food + drink/2018-05-DSC_1757.min.jpg",
